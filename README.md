@@ -7,7 +7,7 @@
 > FLUENT WITH: Javascript, Python, C++ | PREVIOUS EXPERIENCE WITH: C, PHP, Java, Assembly, Kotlin
 
 ##### FRAMEWORKS & TECHNOLOGIES
-> HTML5, CSS3, React, NodeJS, ExpressJS
+> HTML5, CSS3, React, Typescript, NodeJS, ExpressJS
 
 ##### DATABASES
 > MySQL, MongoDB
