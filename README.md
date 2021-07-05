@@ -3,7 +3,7 @@ I am a new developer, currently working with web technologies
 
 Here are some of my skills ->
 
-LANGUAGES: FLUENT: Javascript, Python, C++ | PREVIOUS EXPERIENCE: C, PHP, Java, Assembly
+LANGUAGES: FLUENT: Javascript, Python, C++ | PREVIOUS EXPERIENCE: C, PHP, Java, Assembly, Kotlin
 FRAMEWORKS & TECHNOLOGIES: HTML5, CSS3, React, NodeJS, ExpressJS
 DATABASES: MySQL, MongoDB
 OPERATING SYSTEMS: Windows, Linux, MacOS
