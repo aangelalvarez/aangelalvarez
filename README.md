@@ -15,10 +15,4 @@
 ##### OPERATING SYSTEMS
 > Windows, Linux, MacOS
 
-
-### Here are spome of my personal projects available on github pages
-* Clolor https://aangelalvarez.github.io/clolor/
-* Pagani's website clone https://aangelalvarez.github.io/Pagani-clone/
-* Disney+ clone https://aangelalvarez.github.io/disney/
-
 If you ever wish to contact me you can do so at angelalvatech@gmail.com
