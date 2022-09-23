@@ -1,5 +1,5 @@
 ## Hi, I am Angel Alvarez
-### I am a new developer, currently working with web technologies
+### I am a software engineer, currently working with web technologies
 
 
 
