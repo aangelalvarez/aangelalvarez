@@ -1,23 +1,5 @@
 ## Hi, I am Angel Alvarez
-### I am a software engineer, currently working with web technologies
-
-
-
-##### Here are some of my skills:
-
-##### LANGUAGES
-> FLUENT WITH: Javascript, Python, C++ | PREVIOUS EXPERIENCE WITH: C, PHP, Java, Assembly, Kotlin
-
-##### FRAMEWORKS & TECHNOLOGIES
-> HTML5, CSS3, React, Typescript, NodeJS, ExpressJS, Django
-
-##### DATABASES
-> MySQL, MongoDB
-
-##### OPERATING SYSTEMS
-> Windows, Linux, MacOS
-
-
+### I am an Ex-Amazon software engineer intern, currently working at Snap as a software engineer intern
 
 ##### Some useful links:
 
