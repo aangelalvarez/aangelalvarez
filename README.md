@@ -1,5 +1,5 @@
 ## Hi, I am Angel Alvarez
-### I am an Ex-Amazon software engineer intern, currently working at Snap as a software engineer intern
+### Snap software engineer intern | ex Amazon
 
 > [Portfolio](https://aangelalvarez.github.io/portfolio/)
 
