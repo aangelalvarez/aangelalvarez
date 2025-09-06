@@ -1,5 +1,5 @@
 ## Hi, I am Angel Alvarez
-### Snap Software Engineer Intern | Ex Amazon
+### Ex Snap, ex Amazon SWE Intern
 
 ### Some useful links:
 [Portfolio](https://aangelalvarez.github.io/portfolio/)
